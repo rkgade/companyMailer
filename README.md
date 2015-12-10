@@ -1,0 +1,2 @@
+# companyMailer
+Sample Java Application
